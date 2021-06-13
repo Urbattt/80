@@ -1,0 +1,24 @@
+#buttonsort {
+    display: none;
+    
+    
+    
+    }
+    
+    #displaywithcomma {
+    border-radius: 10px;
+    width: 300px;
+    background-color: darkcyan;
+    border: 3px solid darkolivegreen;
+    }
+    
+    #displaywithoutcomma {
+    border:3px solid darkred ;
+    background-color: gold;
+    width: 300px;
+    
+    border-radius: 10px;
+    }
+    body {
+        background-color:chocolate;
+    }
